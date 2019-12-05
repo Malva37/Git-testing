@@ -13,3 +13,10 @@ h3{
     color: burlywood;
     font-size: 28px;
 }
+
+li:first-child{
+    background-color: red;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
